@@ -1,0 +1,43 @@
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border: 2px solid rgb(48,18,2); 
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#extra {
+  text-align: center;
+  color: rgb(27, 12, 1);
+  font-style: italic;
+  padding: 10px;
+}
+
+body {
+  background-color: antiquewhite;
+  border: 0.1rem;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 80px;
+  font-size: 1.4rem;
+}
+
+p {
+  line-height: 2rem;
+  margin: 10px;
+}
+
+#img-div {
+  background:antiquewhite;
+  padding: 10px;
+  margin: 0;
+}
+
+h2 {
+  text-align:center ;
+}
