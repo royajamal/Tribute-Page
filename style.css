@@ -2,8 +2,7 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-  margin: 0 auto;
-  border: 2px solid rgb(48,18,2); 
+  margin: 0 auto; 
 }
 
 h1 {
