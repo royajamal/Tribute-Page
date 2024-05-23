@@ -14,6 +14,7 @@ h1 {
 p {
   text-align: center;
 }
+
 #extra {
   text-align: center;
   color: rgb(27, 12, 1);
@@ -47,6 +48,6 @@ h2 {
 
 #image {
   display: block;
- max-width:  100%;
- height:auto;
+  max-width: 100%;
+  height: auto;
 }
