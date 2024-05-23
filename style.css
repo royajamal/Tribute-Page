@@ -11,6 +11,9 @@ h1 {
   font-family: 'Courier New', Courier, monospace;
 }
 
+p {
+  text-align: center;
+}
 #extra {
   text-align: center;
   color: rgb(27, 12, 1);
@@ -40,4 +43,10 @@ p {
 
 h2 {
   text-align: center;
+}
+
+#image {
+  display: block;
+ max-width:  100%;
+ height:auto;
 }
